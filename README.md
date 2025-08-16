@@ -4,7 +4,7 @@ An elegant analog clock created using HTML, CSS, and JavaScript. This project se
 
 ## Demo
 
-Check out the live demo of the project [here](https://sanskargupta0.github.io/Analog-Clock/).
+Check out the live demo of the project [here](https://deepanshu1420.github.io/AnalogClock/).
 
 ## Features
 
@@ -27,7 +27,7 @@ Check out the live demo of the project [here](https://sanskargupta0.github.io/An
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Sanskargupta0/Analog-Clock.git
+   git clone <your-repo-link>
 
 2. Navigate to the project folder:
 
