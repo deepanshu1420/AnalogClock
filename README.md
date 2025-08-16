@@ -32,6 +32,6 @@ Check out the live demo of the project [here](https://deepanshu1420.github.io/An
 2. Navigate to the project folder:
 
    ```bash
-   cd Analog-Clock
+   cd AnalogClock
 
 3. Open index.html in your browser to view the clock.
